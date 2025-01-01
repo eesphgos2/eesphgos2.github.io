@@ -20,6 +20,10 @@ my name is ehsan and my major is computer engineering.
 
 i'm eighteen and i live in Tehran .
 
+i love pizza , yellow color and codding .
+
+i can codding such as a noob , can make bread and playing football .
+
 
 
 
