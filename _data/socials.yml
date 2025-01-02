@@ -46,7 +46,7 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-# custom_social: # can be any name here other than the ones already defined above
-#  logo: assets/img/prof_pic.jpg # can be png, svg, jpg
-# title: costum social
-#  url: https://github.com/eesphgos2
+ custom_social: # can be any name here other than the ones already defined above
+ logo: assets/img/prof_pic.jpg # can be png, svg, jpg
+ title: costum social
+  url: https://github.com/eesphgos2
