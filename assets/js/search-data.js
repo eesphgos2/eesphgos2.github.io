@@ -164,6 +164,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
+        id: 'social-telegram',
+        title: 'telegram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://telegram.me/eesphgos", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
