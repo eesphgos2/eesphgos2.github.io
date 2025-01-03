@@ -83,11 +83,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/tabs/";
         
       },
-    },{id: "post-a-post-with-image-galleries",
+    },{id: "post-a-formul",
       
-        title: "a post with image galleries",
+        title: "a formul",
       
-      description: "this is what included image galleries could look like",
+      description: "formul of energy",
       section: "Posts",
       handler: () => {
         
