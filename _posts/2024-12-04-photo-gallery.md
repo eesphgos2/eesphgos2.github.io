@@ -2,8 +2,8 @@
 layout: post
 title: formular
 date: 2025
-description: 
-tags: 
+description: nothing
+tags: formatting images
 categories: sample-posts
 ---
 
