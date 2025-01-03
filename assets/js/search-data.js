@@ -94,11 +94,11 @@ ninja.data = [{
           window.location.href = "/blog/2024/photo-gallery/";
         
       },
-    },{id: "post-a-post-with-typograms",
+    },{id: "post-a-picture",
       
-        title: "a post with typograms",
+        title: "a picture",
       
-      description: "this is what included typograms code could look like",
+      description: "this is a picture",
       section: "Posts",
       handler: () => {
         
