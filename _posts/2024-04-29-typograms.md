@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with typograms
+title: a picture
 date: 2024-04-29 23:36:10
-description: this is what included typograms code could look like
+description: this is a picture
 tags: formatting diagrams
 categories: sample-posts
 typograms: true
