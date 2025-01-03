@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with image galleries
+title: a formul
 date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+description: formul of energy
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
