@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Picture
+title: a picture
 date: 2025
-description: non
-tags: formatting images
+description: image
+tags: formatting diagrams
 categories: sample-posts
+typograms: true
 ---
 
 This is an image.
