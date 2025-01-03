@@ -1,9 +1,16 @@
 ---
 layout: post
-title: img
+title: image
 date: 2025
-tags: []
-author: ehsan
+description: 
+tags: formatting images
+categories: sample-posts
+thumbnail: assets/img/9.jpg
+images:
+  lightbox2: true
+  photoswipe: true
+  spotlight: true
+  venobox: true
 ---
 
 an image that added by ehsan
